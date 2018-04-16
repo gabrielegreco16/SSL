@@ -524,4 +524,4 @@ f001 0000 0000 0000 1600 0000 0000 0000
 11)No pude darme cuenta como hacer para que falle en querer general el ejecutable el hello4.o , lo mismo con el 12) y 13)
 
 
-15) el hello7.c se le agrego el parametro de entrada i em el printf y se cerro la funcion en el main con llave.
+15) el hello7.c se le agrego el parametro de entrada y en el printf  se cerro la funcion en el main con llave.
